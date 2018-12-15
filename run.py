@@ -13,3 +13,4 @@ def mulNumbers(num1, num2):
 def divNumbers(num1, num2):
     return num1 / num2
 
+print(addNumbers(1,2))
